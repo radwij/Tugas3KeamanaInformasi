@@ -1,6 +1,5 @@
 # Chat Room Whisper with RSA and DES encryption
 
-# Chat Room encryption
 
 | Name           | NRP        | Kelas     | Pembagian tugas |
 | ---            | ---        | --------- | --------------- |
